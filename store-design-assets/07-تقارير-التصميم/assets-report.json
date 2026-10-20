@@ -1,0 +1,940 @@
+{
+  "storeName": {
+    "ar": "ألينا",
+    "en": "aleena"
+  },
+  "activity": "متجر عطور",
+  "activityNote": "النشاط مكتوب في رسالة المستخدم: صمم متجر عطور. وصف الثيم في twilight.json ما زال فارغاً، واسم المتجر بقي ألينا.",
+  "colors": {
+    "primary": "#414042",
+    "primaryDark": "#272628",
+    "primaryLight": "#676668",
+    "accent": "#ff6767",
+    "text": "#7c8082",
+    "heading": "#231f1e",
+    "infinite": "#c9c9c9",
+    "grey": "#f5f7f9",
+    "squareCategoryBackground": "#1D1F1F",
+    "squareCategoryText": "#ffffff",
+    "circularCategoryBackground": "#ffffff",
+    "circularCategoryText": "#1D1F1F",
+    "headerPanel": "#0e0f0f",
+    "note": "المتغير --color-primary مُعرّف مرتين في global.scss. القيمة الفعالة هي الأخيرة #414042، والقيمة السابقة #5cd5c4 غير مستخدمة."
+  },
+  "visualDirection": "عطور فاخرة بهوية ألينا الفحمية: زجاجات بلا علامات تجارية، انعكاس زجاجي، رخام داكن، دخان خفيف، ولمسة مرجانية #ff6767. كل تصنيف خامة مختلفة.",
+  "categories": [
+    {
+      "index": 1,
+      "title": "عطور نسائية",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    },
+    {
+      "index": 2,
+      "title": "عطور رجالية",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    },
+    {
+      "index": 3,
+      "title": "عطور للجنسين",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    },
+    {
+      "index": 4,
+      "title": "عطور الشعر والجسم",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    },
+    {
+      "index": 5,
+      "title": "معطرات المنزل والسيارة",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    },
+    {
+      "index": 6,
+      "title": "الفحم والبخور",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    },
+    {
+      "index": 7,
+      "title": "عطور أطفال",
+      "source": "طلب المستخدم: متجر عطور، ومن أمثلة العطور في البرومبت الرئيسي",
+      "liveCategory": false
+    }
+  ],
+  "subcategories": [
+    {
+      "index": 1,
+      "title": "عطور نسائية",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    },
+    {
+      "index": 2,
+      "title": "عطور رجالية",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    },
+    {
+      "index": 3,
+      "title": "عطور للجنسين",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    },
+    {
+      "index": 4,
+      "title": "عطور الشعر والجسم",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    },
+    {
+      "index": 5,
+      "title": "معطرات المنزل والسيارة",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    },
+    {
+      "index": 6,
+      "title": "الفحم والبخور",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    },
+    {
+      "index": 7,
+      "title": "عطور أطفال",
+      "source": "خلفية عنوان لنفس تصنيف العطور، وليست شجرة فرعية من الثيم"
+    }
+  ],
+  "producedCount": 35,
+  "files": [
+    {
+      "path": "store-design-assets/01-الشعار/logo-black.png",
+      "bytes": 12061,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "b740be02b0ae5194b3ffbe3f487568886746138aee5824a0604a4d1f661b1ce5",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/01-الشعار/logo-original.png",
+      "bytes": 19055,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "99d0c66a7c673fead98072b672c61b35b0e77d18bd736954b39e5c6b10cd79ce",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/01-الشعار/logo-theme-color.png",
+      "bytes": 19055,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "99d0c66a7c673fead98072b672c61b35b0e77d18bd736954b39e5c6b10cd79ce",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/01-الشعار/logo-white.png",
+      "bytes": 19879,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "fea56372db47087bf98d4551b0b877ddedd34dc902271633fc7f00bf90a8fcd6",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/الفحم-والبخور.webp",
+      "bytes": 31856,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "a70117dcaeb7f9860cc6b7de4a56bec246d181c7239a436447de6bd108971884",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-أطفال.webp",
+      "bytes": 18302,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "3b0b2a1112d25c3bdf1a7eaa4353b8d6561f426d8ec75452b2dfaba9d4671d35",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-الشعر-والجسم.webp",
+      "bytes": 38886,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "7a51e06d3e9863dac6a8dac7eb7440f2fdc404845be830376b2d187b65ac3a84",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-رجالية.webp",
+      "bytes": 25530,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "f3ddf6ebb464297b79e295b86dd9008e25d6ea2a57d8f8419476f0b4544ebc81",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-للجنسين.webp",
+      "bytes": 27868,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "561d01f8a52737b063b4650dd519f877b2343f05ec62c2b55f3aad62d2ff5900",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-نسائية.webp",
+      "bytes": 30318,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "56ecfe74ffd5422f9a744c1cd93483a454e8deb82c63b9fb6e7796c10df6b428",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/معطرات-المنزل-والسيارة.webp",
+      "bytes": 28222,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "54b5e76e0b475af27f4efc75c4615b988d89dc0a6c7efe3cd16f60e976295f05",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/01-بنر-فاخر.webp",
+      "bytes": 52194,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "df4ef95e8fa5ddc6695721406e13ba619137383c2aecae1be1eaa8a2bd2f1c35",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/02-منتجات-عائمة.webp",
+      "bytes": 29566,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "33a3f8851b7cd90635b6bbeec6033b2857dfee3a6e3c9dd613e5c1869bb9e259",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/03-بساطة-فاخرة.webp",
+      "bytes": 10992,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "007ed6f8fddb48984bb73ab25bf189a0a4e4e2cd5bf2d2e72b6a59f0912d7a9b",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/04-إضاءة-سينمائية.webp",
+      "bytes": 24836,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "16de70e8be8d13e22d59b5a78e089cc972ff95ca2086a51006f48384e70fddb3",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/05-عرض-إبداعي.webp",
+      "bytes": 143974,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "bbe0ee28295deca9ea05ebcb66ca3c65898fb9a253f5ed9a68349b8956015717",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/.gitkeep",
+      "bytes": 0,
+      "format": "file",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "checks": {
+        "role": "data"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/الفحم-والبخور.webp",
+      "bytes": 42616,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "fffdf0a7f78adb56fcdffe13f2971e923c48d517a199fdda887ad3990637d134",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-أطفال.webp",
+      "bytes": 6772,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "f78b24d5369e7d7662b40cbaedfd2a6e9e5f39b77f04e7c959d3720e14d8e3ab",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-الشعر-والجسم.webp",
+      "bytes": 14582,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "b35f858e16bee5a8fc77d4c0aa0f3c8138f990331c3845460a8acd7d05aaa091",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-رجالية.webp",
+      "bytes": 5292,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "7c1c765017d213d6e415ecfd28468175b79a19ab778609aea9c1a91a1c981e7a",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-للجنسين.webp",
+      "bytes": 14294,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "e0ac1073f82265e0c3899201f2a63a43090317781bfe51089007cb6b8ba8eeed",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-نسائية.webp",
+      "bytes": 43298,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "2e3605b031ab277810bea646d3fa7408420c0ba966dced93cd9f1c888c726420",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/معطرات-المنزل-والسيارة.webp",
+      "bytes": 21626,
+      "format": "webp",
+      "width": 1200,
+      "height": 500,
+      "hasAlpha": false,
+      "sha256": "be1e531a5ba031a59a7dff27b509cb992c4fe92e47e7281f154f478315141fca",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1200x500"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/01-رخام-داكن.webp",
+      "bytes": 131266,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "e088606bfc0b1b6a8d499b10e8fcaf02e08bdf241f22c111be1b4a21e43bac87",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/02-تدرج-فحمي.webp",
+      "bytes": 7418,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "0e04132c801b121d5a0a3b665bff3f1c8bde52404ef4767511cd3dcbd0301d3d",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/03-وهج-مرجاني.webp",
+      "bytes": 18496,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "3a513fb52a399d2d4a679e825c1cfe3acb6b863e18b333c06442bdb7481650bd",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/04-دخان-خفيف.webp",
+      "bytes": 32374,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "6220d027b6ebcb346704f8f4439974739c8c1b8aa2955c84cf3bc226c7ed332f",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/05-خشب-عود.webp",
+      "bytes": 143084,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "08b8ea76f4ae72e7e11c7a802dee6d8575df52bf5e2b540ee808a91c4d23a0e4",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/06-شعاع-ضوء.webp",
+      "bytes": 18470,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "fd2c9ba7d06e8714cd302af7e817a7dcdfe5fdc49f7ba8e3dc01e3513cae1160",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/07-بوكيه-دافئ.webp",
+      "bytes": 11722,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "89b6c569aaf64b6208dcac14a21a261b500ba226b5625892bff53a0ceff52f15",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/08-جدار-هادئ.webp",
+      "bytes": 11108,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "8586d730cb78c3cfd2299bca2af0c700496c3dd51bb8381e40cb96ebaef1952d",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/09-ضباب-ناعم.webp",
+      "bytes": 8258,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "f1ad63ac045922ae471a5e5f51197cbd3ea0d865835ba36aaf5247c6d4f6836f",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/10-مستويات-فحمية.webp",
+      "bytes": 15144,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "66d07ebafdc0b0a03cd33311578648fceef6a04457cb0e4f191b43cbea65fdac",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/06-أيقونة-المتصفح/favicon-32x32.png",
+      "bytes": 525,
+      "format": "png",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sha256": "4f3dcf9a41534d69ac934a65514b6a6ab1b8d3c202fbbb1b6c7158406732a21c",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "pass",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/06-أيقونة-المتصفح/favicon.ico",
+      "bytes": 547,
+      "format": "ico",
+      "sha256": "e3364c334bd157f7101e5d8f8c4d21a9d77376db10f9c46561507ef3e3c12ceb",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "32x32 embedded png",
+        "size": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/07-تقارير-التصميم/analysis.json",
+      "bytes": 6961,
+      "format": "json",
+      "sha256": "d4205819ad649aba6199906f3f3be1df1ec852426a18852f360554fc2d70e538",
+      "checks": {
+        "role": "data"
+      }
+    },
+    {
+      "path": "store-design-assets/07-تقارير-التصميم/optimize.json",
+      "bytes": 8798,
+      "format": "json",
+      "sha256": "20ebbfe37ee77b9f0303ce160c4e3bd6bd0dee31f605dcdb21bf1e398504ea50",
+      "checks": {
+        "role": "data"
+      }
+    }
+  ],
+  "optimize": [
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-نسائية.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 30318,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-رجالية.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 25530,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-للجنسين.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 27868,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-الشعر-والجسم.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 38886,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/معطرات-المنزل-والسيارة.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 28222,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/الفحم-والبخور.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 31856,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-أطفال.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 18302,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-نسائية.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 43298,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-رجالية.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 5292,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-للجنسين.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 14294,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-الشعر-والجسم.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 14582,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/معطرات-المنزل-والسيارة.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 21626,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/الفحم-والبخور.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 42616,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-أطفال.webp",
+      "width": 1200,
+      "height": 500,
+      "bytes": 6772,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/01-بنر-فاخر.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 52194,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/02-منتجات-عائمة.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 29566,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/03-بساطة-فاخرة.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 10992,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/04-إضاءة-سينمائية.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 24836,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/05-عرض-إبداعي.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 143974,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/01-رخام-داكن.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 131266,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/02-تدرج-فحمي.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 7418,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/03-وهج-مرجاني.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 18496,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/04-دخان-خفيف.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 32374,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/05-خشب-عود.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 143084,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/06-شعاع-ضوء.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 18470,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/07-بوكيه-دافئ.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 11722,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/08-جدار-هادئ.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 11108,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/09-ضباب-ناعم.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8258,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/10-مستويات-فحمية.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 15144,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    }
+  ],
+  "duplicateFiles": [],
+  "quality": {
+    "dimensionsChecked": true,
+    "sizeChecked": true,
+    "decodeChecked": true,
+    "logoAlphaChecked": true,
+    "unwantedText": "البرومبتات منعت أي نص أو شعار. لا توجد أداة OCR في البيئة، لذلك لم يُنفَّذ فحص نص آلي.",
+    "distortedProducts": "توليد بلا وجوه أو أيدٍ أو عبوات بعلامات تجارية حقيقية. لا يوجد فحص تشوه آلي.",
+    "compositionDifference": "pass"
+  },
+  "failed": [
+    {
+      "phase": "المرحلة 3: الشعار الأصلي",
+      "file": "store-design-assets/01-الشعار/logo-original.png",
+      "reason": "لا يوجد ملف شعار أصلي. وُضع في هذا المسار نفس الشعار المشتق من اسم المتجر بلون الثيم، وهو ليس شعاراً تاريخياً مستخرجاً من صورة سابقة."
+    }
+  ],
+  "delivery": {
+    "folder": "store-design-assets",
+    "zip": "aleena-store-design-assets.zip",
+    "zipBytes": 1094092,
+    "desktop": null,
+    "desktopNote": "لا يوجد مجلد Desktop أو سطح المكتب في هذه البيئة. التنزيل عبر الملف المضغوط.",
+    "downloadUrl": "https://github.com/Ashaheen892/aleena/raw/cursor/design-asset-factory-59bd/aleena-store-design-assets.zip"
+  }
+}
