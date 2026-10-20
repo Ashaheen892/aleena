@@ -1,0 +1,156 @@
+[
+  {
+    "source": "store-design-assets/_inbox/cat-ready.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-جاهز.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/cat-custom.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/خدمة-حسب-الطلب.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/cat-food.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/أكل-ومشروبات.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/cat-digital.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-رقمي.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/cat-card.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/بطاقة-رقمية.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/cat-bundle.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/مجموعة-منتجات.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/cat-booking.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/حجوزات.webp",
+    "width": 800,
+    "height": 800,
+    "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/banner-hero.png",
+    "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/01-بنر-فاخر.webp",
+    "width": 1916,
+    "height": 821,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/banner-float.png",
+    "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/02-منتجات-عائمة.webp",
+    "width": 1916,
+    "height": 821,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/banner-minimal.png",
+    "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/03-بساطة-فاخرة.webp",
+    "width": 1916,
+    "height": 821,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/banner-cinema.png",
+    "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/04-إضاءة-سينمائية.webp",
+    "width": 1916,
+    "height": 821,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/banner-showcase.png",
+    "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/05-عرض-إبداعي.webp",
+    "width": 1916,
+    "height": 821,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-01.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/01-حجر-داكن.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-02.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/02-تدرج-فحمي.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-03.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/03-وهج-مرجاني.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-04.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/04-قماش-داكن.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-05.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/05-رخام-هادئ.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-06.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/06-شعاع-ضوء.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-07.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/07-بوكيه-دافئ.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-08.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/08-جدار-هادئ.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-09.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/09-ضباب-ناعم.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/bg-10.png",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/10-مستويات-فحمية.webp",
+    "width": 1920,
+    "height": 1080,
+    "maxBytes": 512000
+  }
+]

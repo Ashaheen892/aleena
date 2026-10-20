@@ -1,0 +1,9 @@
+{
+  "name": "aleena-design-factory",
+  "private": true,
+  "type": "module",
+  "description": "تحليل ثيم ألينا وضغط أصول التصميم والتحقق منها وتغليفها.",
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "storeName": {
+    "ar": "ألينا",
+    "en": "aleena"
+  },
+  "activity": null,
+  "activityNote": "لا يوجد نشاط تجاري في twilight.json أو ملفات اللغة أو القوالب. حقل description فارغ. لم يُخترع نشاط.",
+  "colors": {
+    "primary": "#414042",
+    "primaryDark": "#272628",
+    "primaryLight": "#676668",
+    "accent": "#ff6767",
+    "text": "#7c8082",
+    "heading": "#231f1e",
+    "infinite": "#c9c9c9",
+    "grey": "#f5f7f9",
+    "squareCategoryBackground": "#1D1F1F",
+    "squareCategoryText": "#ffffff",
+    "circularCategoryBackground": "#ffffff",
+    "circularCategoryText": "#1D1F1F",
+    "headerPanel": "#0e0f0f",
+    "note": "المتغير --color-primary مُعرّف مرتين في global.scss. القيمة الفعالة هي الأخيرة #414042، والقيمة السابقة #5cd5c4 غير مستخدمة."
+  },
+  "visualDirection": "هوية فحمية فاخرة محايدة مبنية على ألوان الثيم. كل عنوان رابط يأخذ مشهداً مختلفاً لأن القائمة متعددة الأنواع، دون افتراض نشاط واحد غير موجود.",
+  "categories": [
+    {
+      "index": 1,
+      "title": "منتج جاهز",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    },
+    {
+      "index": 2,
+      "title": "خدمة حسب الطلب",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    },
+    {
+      "index": 3,
+      "title": "أكل ومشروبات",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    },
+    {
+      "index": 4,
+      "title": "منتج رقمي",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    },
+    {
+      "index": 5,
+      "title": "بطاقة رقمية",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    },
+    {
+      "index": 6,
+      "title": "مجموعة منتجات",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    },
+    {
+      "index": 7,
+      "title": "حجوزات",
+      "source": "عناوين روابط home.main-links و home.circular-links في twilight.json",
+      "liveCategory": false
+    }
+  ],
+  "subcategories": [],
+  "producedCount": 28,
+  "files": [
+    {
+      "path": "store-design-assets/01-الشعار/logo-black.png",
+      "bytes": 12061,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "b740be02b0ae5194b3ffbe3f487568886746138aee5824a0604a4d1f661b1ce5",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/01-الشعار/logo-original.png",
+      "bytes": 19055,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "99d0c66a7c673fead98072b672c61b35b0e77d18bd736954b39e5c6b10cd79ce",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/01-الشعار/logo-theme-color.png",
+      "bytes": 19055,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "99d0c66a7c673fead98072b672c61b35b0e77d18bd736954b39e5c6b10cd79ce",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/01-الشعار/logo-white.png",
+      "bytes": 19879,
+      "format": "png",
+      "width": 553,
+      "height": 450,
+      "hasAlpha": true,
+      "sha256": "fea56372db47087bf98d4551b0b877ddedd34dc902271633fc7f00bf90a8fcd6",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "553x450",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/أكل-ومشروبات.webp",
+      "bytes": 48126,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "4074c6af111a396d39725f6c99f3205e30c07339c84b0e04de7095e37300417d",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/بطاقة-رقمية.webp",
+      "bytes": 28384,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "9e24ab8659159d979ecf414ed80a046ab7ed6990bb1ab7d9ca0e243a653c5ad1",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/حجوزات.webp",
+      "bytes": 18526,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "a6206c35f0cfcab1830b5f8058df7aff9b83b94254eab542b1974d2db3a8b603",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/خدمة-حسب-الطلب.webp",
+      "bytes": 50364,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "8b156d35f9e3cb0c550fcfe85c257cb8bb004548555da6c0651b1c5cd1c0a430",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/مجموعة-منتجات.webp",
+      "bytes": 50104,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "ad99bbf51803be88f3ca6c65d05037bf909156ad6b626d29a3f52c3a6fee0843",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-جاهز.webp",
+      "bytes": 50822,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "6bd6bc15321982ce6526ae32bd0f57e127a4c139ca7aad09422d0cecf236f0cc",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-رقمي.webp",
+      "bytes": 6186,
+      "format": "webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "sha256": "ebc8f73c3b98672894395e851edbb00690bc98b4995c931a55d34cd6ed3a12eb",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "800x800"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/01-بنر-فاخر.webp",
+      "bytes": 36698,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "c5fc1772908320f18d983727ef55b369d4d7444e2f92e62366acac6468ecb207",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/02-منتجات-عائمة.webp",
+      "bytes": 12412,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "c7731fba9e74d26b5a0232302864ccdea95b2bbf55050c0688f646d572270858",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/03-بساطة-فاخرة.webp",
+      "bytes": 14186,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "ab09db583c92183db1c5f83ca129f370d7abce86f4cb5ae9c6e54618a460082f",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/04-إضاءة-سينمائية.webp",
+      "bytes": 59456,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "719fd4becafc6f3ac235d98119cea1a9ab4213649beb2268733519b048be35bb",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/03-بنرات-مستطيلة-بالعرض/05-عرض-إبداعي.webp",
+      "bytes": 168194,
+      "format": "webp",
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": false,
+      "sha256": "5d0512d43a7a2860e29ba06b8eb0b2cc2f7e1bb362ed0edf8e5bb039ac553c81",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1916x821"
+      }
+    },
+    {
+      "path": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/.gitkeep",
+      "bytes": 0,
+      "format": "file",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "checks": {
+        "role": "data"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/01-حجر-داكن.webp",
+      "bytes": 154382,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "d351d4554d43ab1ae9262d7fbafb1d81d9a59a9c4a9579be7214d9f26d9da7b3",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/02-تدرج-فحمي.webp",
+      "bytes": 8302,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "485349910d302b618e79a861c8ba033c7c5feb674ed07eb59c4d5af7d904ebf8",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/03-وهج-مرجاني.webp",
+      "bytes": 19642,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "b408c714474f8d09afd817d6716c7e7c0c857276761d42e29bfb09d952b7fad9",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/04-قماش-داكن.webp",
+      "bytes": 83712,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "d832605a505121d805b6c7dd5bb16c3ad4f839a9f8b0389e6e213c88c98182f0",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/05-رخام-هادئ.webp",
+      "bytes": 207072,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "fcb469cea30166b255ef9a923f0a85243d3c681945e9d6893b32836288e0ee64",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/06-شعاع-ضوء.webp",
+      "bytes": 20388,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "552cdcc63154410c3bba29a5b28522bff889b821a56e7f190aed56bb1904d44d",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/07-بوكيه-دافئ.webp",
+      "bytes": 12562,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "273b0d140d388fdd8e471cb6a1e4ffff696e0de08993250a8ce5c6c30ddc040f",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/08-جدار-هادئ.webp",
+      "bytes": 9238,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "9f9744dd300df67fd54f85e8ecca5d221998417156604bafec48b6c34a8edecf",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/09-ضباب-ناعم.webp",
+      "bytes": 8454,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "3d287a2ecf43922bea13798c3d0685e1c25a0fb11842e25e131a8d55cca17a19",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/05-خلفيات-بدون-نصوص/10-مستويات-فحمية.webp",
+      "bytes": 11744,
+      "format": "webp",
+      "width": 1920,
+      "height": 1080,
+      "hasAlpha": false,
+      "sha256": "7363a4b3b03d45d0e09d835cdb2d4de1c1d83159068da80302e1c45fb31d2468",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "1920x1080"
+      }
+    },
+    {
+      "path": "store-design-assets/06-أيقونة-المتصفح/favicon-32x32.png",
+      "bytes": 525,
+      "format": "png",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sha256": "4f3dcf9a41534d69ac934a65514b6a6ab1b8d3c202fbbb1b6c7158406732a21c",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "pass",
+        "alpha": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/06-أيقونة-المتصفح/favicon.ico",
+      "bytes": 547,
+      "format": "ico",
+      "sha256": "e3364c334bd157f7101e5d8f8c4d21a9d77376db10f9c46561507ef3e3c12ceb",
+      "checks": {
+        "decode": "pass",
+        "dimensions": "32x32 embedded png",
+        "size": "pass"
+      }
+    },
+    {
+      "path": "store-design-assets/07-تقارير-التصميم/analysis.json",
+      "bytes": 3788,
+      "format": "json",
+      "sha256": "9190444c164608474b35de6b493ba47cda27da125c1c905169b24cc3d42911d1",
+      "checks": {
+        "role": "data"
+      }
+    },
+    {
+      "path": "store-design-assets/07-تقارير-التصميم/optimize.json",
+      "bytes": 6538,
+      "format": "json",
+      "sha256": "ddcbc6a43125d41161d0311247161af69ff68318ff19de480f29b920698ba996",
+      "checks": {
+        "role": "data"
+      }
+    }
+  ],
+  "optimize": [
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-جاهز.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 50822,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/خدمة-حسب-الطلب.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 50364,
+      "maxBytes": 51200,
+      "quality": 58,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/أكل-ومشروبات.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 48126,
+      "maxBytes": 51200,
+      "quality": 74,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-رقمي.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 6186,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/بطاقة-رقمية.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 28384,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/مجموعة-منتجات.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 50104,
+      "maxBytes": 51200,
+      "quality": 50,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/02-صور-التصنيفات-المربعة/حجوزات.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 18526,
+      "maxBytes": 51200,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/01-بنر-فاخر.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 36698,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/02-منتجات-عائمة.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 12412,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/03-بساطة-فاخرة.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 14186,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/04-إضاءة-سينمائية.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 59456,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/03-بنرات-مستطيلة-بالعرض/05-عرض-إبداعي.webp",
+      "width": 1916,
+      "height": 821,
+      "bytes": 168194,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/01-حجر-داكن.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 154382,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/02-تدرج-فحمي.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8302,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/03-وهج-مرجاني.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 19642,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/04-قماش-داكن.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 83712,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/05-رخام-هادئ.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 207072,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/06-شعاع-ضوء.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 20388,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/07-بوكيه-دافئ.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 12562,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/08-جدار-هادئ.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 9238,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/09-ضباب-ناعم.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8454,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    },
+    {
+      "output": "store-design-assets/05-خلفيات-بدون-نصوص/10-مستويات-فحمية.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 11744,
+      "maxBytes": 512000,
+      "quality": 78,
+      "withinLimit": true,
+      "acceptableQuality": true,
+      "dimensionsMatch": true
+    }
+  ],
+  "duplicateFiles": [],
+  "quality": {
+    "dimensionsChecked": true,
+    "sizeChecked": true,
+    "decodeChecked": true,
+    "logoAlphaChecked": true,
+    "unwantedText": "البرومبتات منعت أي نص أو شعار. لا توجد أداة OCR في البيئة، لذلك لم يُنفَّذ فحص نص آلي.",
+    "distortedProducts": "توليد بلا وجوه أو أيدٍ أو عبوات بعلامات تجارية حقيقية. لا يوجد فحص تشوه آلي.",
+    "compositionDifference": "pass"
+  },
+  "failed": [
+    {
+      "phase": "المرحلة 6: خلفيات التصنيفات المستطيلة",
+      "folder": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة",
+      "reason": "لا توجد تصنيفات فرعية في بيانات المشروع. حقول التصنيفات الحية selected و options فارغة، لذلك لا تُصنع صور المرحلة 6."
+    },
+    {
+      "phase": "المرحلة 3: الشعار الأصلي",
+      "file": "store-design-assets/01-الشعار/logo-original.png",
+      "reason": "لا يوجد ملف شعار أصلي. وُضع في هذا المسار نفس الشعار المشتق من اسم المتجر بلون الثيم، وهو ليس شعاراً تاريخياً مستخرجاً من صورة سابقة."
+    }
+  ],
+  "delivery": {
+    "folder": "store-design-assets",
+    "zip": "aleena-store-design-assets.zip",
+    "zipBytes": 1162016,
+    "desktop": null,
+    "desktopNote": "لا يوجد مجلد Desktop أو سطح المكتب في هذه البيئة. التنزيل عبر الملف المضغوط.",
+    "downloadUrl": "https://github.com/Ashaheen892/aleena/raw/cursor/design-asset-factory-59bd/aleena-store-design-assets.zip"
+  }
+}
