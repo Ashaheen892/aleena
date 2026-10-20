@@ -1,52 +1,101 @@
 [
   {
-    "source": "store-design-assets/_inbox/cat-ready.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-جاهز.webp",
+    "source": "store-design-assets/_inbox/cat-women.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-نسائية.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
   },
   {
-    "source": "store-design-assets/_inbox/cat-custom.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/خدمة-حسب-الطلب.webp",
+    "source": "store-design-assets/_inbox/cat-men.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-رجالية.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
   },
   {
-    "source": "store-design-assets/_inbox/cat-food.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/أكل-ومشروبات.webp",
+    "source": "store-design-assets/_inbox/cat-unisex.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-للجنسين.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
   },
   {
-    "source": "store-design-assets/_inbox/cat-digital.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/منتج-رقمي.webp",
+    "source": "store-design-assets/_inbox/cat-body.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-الشعر-والجسم.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
   },
   {
-    "source": "store-design-assets/_inbox/cat-card.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/بطاقة-رقمية.webp",
+    "source": "store-design-assets/_inbox/cat-home.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/معطرات-المنزل-والسيارة.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
   },
   {
-    "source": "store-design-assets/_inbox/cat-bundle.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/مجموعة-منتجات.webp",
+    "source": "store-design-assets/_inbox/cat-oud.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/الفحم-والبخور.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
   },
   {
-    "source": "store-design-assets/_inbox/cat-booking.png",
-    "output": "store-design-assets/02-صور-التصنيفات-المربعة/حجوزات.webp",
+    "source": "store-design-assets/_inbox/cat-kids.png",
+    "output": "store-design-assets/02-صور-التصنيفات-المربعة/عطور-أطفال.webp",
     "width": 800,
     "height": 800,
     "maxBytes": 51200
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-women.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-نسائية.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-men.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-رجالية.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-unisex.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-للجنسين.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-body.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-الشعر-والجسم.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-home.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/معطرات-المنزل-والسيارة.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-oud.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/الفحم-والبخور.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
+  },
+  {
+    "source": "store-design-assets/_inbox/wide-kids.png",
+    "output": "store-design-assets/04-خلفيات-التصنيفات-المستطيلة/عطور-أطفال.webp",
+    "width": 1200,
+    "height": 500,
+    "maxBytes": 512000
   },
   {
     "source": "store-design-assets/_inbox/banner-hero.png",
@@ -85,7 +134,7 @@
   },
   {
     "source": "store-design-assets/_inbox/bg-01.png",
-    "output": "store-design-assets/05-خلفيات-بدون-نصوص/01-حجر-داكن.webp",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/01-رخام-داكن.webp",
     "width": 1920,
     "height": 1080,
     "maxBytes": 512000
@@ -106,14 +155,14 @@
   },
   {
     "source": "store-design-assets/_inbox/bg-04.png",
-    "output": "store-design-assets/05-خلفيات-بدون-نصوص/04-قماش-داكن.webp",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/04-دخان-خفيف.webp",
     "width": 1920,
     "height": 1080,
     "maxBytes": 512000
   },
   {
     "source": "store-design-assets/_inbox/bg-05.png",
-    "output": "store-design-assets/05-خلفيات-بدون-نصوص/05-رخام-هادئ.webp",
+    "output": "store-design-assets/05-خلفيات-بدون-نصوص/05-خشب-عود.webp",
     "width": 1920,
     "height": 1080,
     "maxBytes": 512000

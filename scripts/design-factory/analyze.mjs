@@ -99,6 +99,24 @@ const analysis = {
     "هوية فحمية فاخرة محايدة مبنية على ألوان الثيم. كل عنوان رابط يأخذ مشهداً مختلفاً لأن القائمة متعددة الأنواع، دون افتراض نشاط واحد غير موجود.",
 };
 
+const requestPath = path.join(import.meta.dirname, "request.json");
+if (fs.existsSync(requestPath)) {
+  const request = JSON.parse(fs.readFileSync(requestPath, "utf8"));
+  analysis.themeLinkTitles = analysis.categories;
+  if (request.activity) {
+    analysis.activity = request.activity;
+    analysis.activityNote = request.activityNote;
+  }
+  if (request.visualDirection) analysis.visualDirection = request.visualDirection;
+  if (Array.isArray(request.categories) && request.categories.length > 0) {
+    analysis.categories = request.categories;
+  }
+  if (Array.isArray(request.subcategories)) {
+    analysis.subcategories = request.subcategories;
+    if (request.subcategoryNote) analysis.subcategoryNote = request.subcategoryNote;
+  }
+}
+
 const folders = [
   "store-design-assets/01-الشعار",
   "store-design-assets/02-صور-التصنيفات-المربعة",
